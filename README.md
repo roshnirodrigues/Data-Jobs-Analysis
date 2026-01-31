@@ -1,4 +1,4 @@
-# 📊 Data Jobs Market Analysis (India Focus) — Power BI Project
+# 📊 Data Jobs Market Analysis — Power BI Project
 
 ## 🚀 Project Overview
 
