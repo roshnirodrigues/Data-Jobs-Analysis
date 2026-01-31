@@ -1,5 +1,7 @@
 # 📊 Data Jobs Market Analysis — Power BI Project
 
+(Images/Jobs Dashboard - Overview.png)
+
 ## 🚀 Project Overview
 
 In this project, I analysed data-related job postings from 2024 to understand trends in the data job market. While the original dataset is global, the analysis focuses specifically on India to make the insights more meaningful from a local job-seeker perspective.
